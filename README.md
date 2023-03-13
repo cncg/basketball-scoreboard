@@ -8,7 +8,7 @@ This repository is a project from [Scrimba](https://scrimba.com), to create a ba
   - [The challenge](#the-challenge)
   - [Links](#links)
   <br>
-- [Our process](#our-process)
+- [The process](#our-process)
   - [Built with](#built-with)
   <br>
 - [Author](#author)
