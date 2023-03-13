@@ -6,10 +6,11 @@ This repository is a project from [Scrimba](https://scrimba.com), to create a ba
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
+  <br>
 - [Our process](#our-process)
   - [Built with](#built-with)
+  <br>
 - [Author](#author)
 
 ## Overview
@@ -24,12 +25,12 @@ The goal is to create a basketball scoreboard, but it can be any sport. You must
   [https://cncg.github.io/basketball-scoreboard/]
 
 ## The process
-
+ 
 Starting with the Figma files, it is best to inspect them well to have an idea of the design and even spacing! I changed the original design within Figma, using that new design and taking colors and placement from Figma. Then create a semantic HTML file, alongisde a CSS file and external Javascript file. Make sure to test Javascript code in the console, and assure everything is loading and displaying properly. Click all the buttons and mess with the project a bunch before deploying! You will always find something to improve or fix.
 
 ### Built with
 
-- Semantic HTML5 Markup
+- Semantic HTML5
 - CSS3
 - FlexBox
 - Javascript
